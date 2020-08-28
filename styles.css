@@ -23,7 +23,7 @@ body {
   nav {
     height: 45px;
     width: 100%;
-    background-color: rgba(51, 51, 51, 0.644);
+    background-color: rgba(0, 0, 0, 0.644);
     color: #eee;
   }
   nav ul {
@@ -64,15 +64,13 @@ body {
   .a-group a{
       text-decoration: none;
       color: #fff;
-      background: rgb(53, 45, 45);
+      background: rgb(26, 23, 23);
+      font-size: 25px;
       padding: 10px;
   }
   .a-group a:hover{
-      background: rgb(20, 20, 20);
+      background: rgb(54, 54, 54);
   }
-.login{
-  margin-left: 800px;
-}
-  
+
  
   
